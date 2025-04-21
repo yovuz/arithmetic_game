@@ -1,0 +1,15 @@
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication7\arithmetic_game\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication7\arithmetic_game\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication7\arithmetic_game\obj\Debug\WindowsFormsApplication7.pdb
