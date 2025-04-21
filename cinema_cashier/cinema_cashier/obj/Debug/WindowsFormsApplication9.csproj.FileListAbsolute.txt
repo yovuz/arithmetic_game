@@ -1,0 +1,15 @@
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+c:\users\224223\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication9\cinema_cashier\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication9\cinema_cashier\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Windows 10\Downloads\Новая папка\WindowsFormsApplication9\cinema_cashier\obj\Debug\WindowsFormsApplication9.pdb
