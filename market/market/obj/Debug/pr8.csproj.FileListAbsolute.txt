@@ -1,0 +1,12 @@
+c:\users\224223\documents\visual studio 2015\Projects\pr8\pr8\bin\Debug\pr8.exe.config
+c:\users\224223\documents\visual studio 2015\Projects\pr8\pr8\bin\Debug\pr8.exe
+c:\users\224223\documents\visual studio 2015\Projects\pr8\pr8\bin\Debug\pr8.pdb
+c:\users\224223\documents\visual studio 2015\Projects\pr8\pr8\obj\Debug\pr8.csprojResolveAssemblyReference.cache
+c:\users\224223\documents\visual studio 2015\Projects\pr8\pr8\obj\Debug\pr8.Form1.resources
+c:\users\224223\documents\visual studio 2015\Projects\pr8\pr8\obj\Debug\pr8.Properties.Resources.resources
+c:\users\224223\documents\visual studio 2015\Projects\pr8\pr8\obj\Debug\pr8.csproj.GenerateResource.Cache
+c:\users\224223\documents\visual studio 2015\Projects\pr8\pr8\obj\Debug\pr8.exe
+c:\users\224223\documents\visual studio 2015\Projects\pr8\pr8\obj\Debug\pr8.pdb
+C:\Users\Windows 10\Downloads\Новая папка\pr8\pr8\bin\Debug\pr8.exe.config
+C:\Users\Windows 10\Downloads\Новая папка\pr8\pr8\obj\Debug\pr8.exe
+C:\Users\Windows 10\Downloads\Новая папка\pr8\pr8\obj\Debug\pr8.pdb

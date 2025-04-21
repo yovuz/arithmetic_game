@@ -1,0 +1,11 @@
+c:\users\224223\documents\visual studio 2015\Projects\pr8_2\pr8_2\bin\Debug\pr8_2.exe.config
+c:\users\224223\documents\visual studio 2015\Projects\pr8_2\pr8_2\obj\Debug\pr8_2.Form1.resources
+c:\users\224223\documents\visual studio 2015\Projects\pr8_2\pr8_2\obj\Debug\pr8_2.Properties.Resources.resources
+c:\users\224223\documents\visual studio 2015\Projects\pr8_2\pr8_2\obj\Debug\pr8_2.csproj.GenerateResource.Cache
+c:\users\224223\documents\visual studio 2015\Projects\pr8_2\pr8_2\bin\Debug\pr8_2.exe
+c:\users\224223\documents\visual studio 2015\Projects\pr8_2\pr8_2\bin\Debug\pr8_2.pdb
+c:\users\224223\documents\visual studio 2015\Projects\pr8_2\pr8_2\obj\Debug\pr8_2.exe
+c:\users\224223\documents\visual studio 2015\Projects\pr8_2\pr8_2\obj\Debug\pr8_2.pdb
+C:\Users\Windows 10\Downloads\Новая папка\pr8_2\pr8_2\bin\Debug\pr8_2.exe.config
+C:\Users\Windows 10\Downloads\Новая папка\pr8_2\pr8_2\obj\Debug\pr8_2.exe
+C:\Users\Windows 10\Downloads\Новая папка\pr8_2\pr8_2\obj\Debug\pr8_2.pdb
