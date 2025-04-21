@@ -1,0 +1,12 @@
+c:\users\224223\documents\visual studio 2015\Projects\pr10\pr10\bin\Debug\pr10.exe.config
+c:\users\224223\documents\visual studio 2015\Projects\pr10\pr10\bin\Debug\pr10.exe
+c:\users\224223\documents\visual studio 2015\Projects\pr10\pr10\bin\Debug\pr10.pdb
+c:\users\224223\documents\visual studio 2015\Projects\pr10\pr10\obj\Debug\pr10.csprojResolveAssemblyReference.cache
+c:\users\224223\documents\visual studio 2015\Projects\pr10\pr10\obj\Debug\pr10.Form1.resources
+c:\users\224223\documents\visual studio 2015\Projects\pr10\pr10\obj\Debug\pr10.Properties.Resources.resources
+c:\users\224223\documents\visual studio 2015\Projects\pr10\pr10\obj\Debug\pr10.csproj.GenerateResource.Cache
+c:\users\224223\documents\visual studio 2015\Projects\pr10\pr10\obj\Debug\pr10.exe
+c:\users\224223\documents\visual studio 2015\Projects\pr10\pr10\obj\Debug\pr10.pdb
+C:\Users\Windows 10\Downloads\Новая папка\pr10\pr10\bin\Debug\pr10.exe.config
+C:\Users\Windows 10\Downloads\Новая папка\pr10\pr10\obj\Debug\pr10.exe
+C:\Users\Windows 10\Downloads\Новая папка\pr10\pr10\obj\Debug\pr10.pdb
